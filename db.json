@@ -1,166 +1,170 @@
 {
-  "whitelists/android/whitelist-focus.json": {
-    "timestamp": 20231124130754,
-    "identifier": "Kawasaki_productive",
-    "isProductive": true,
-    "regions": {
-      "ar": "Argentina",
-      "am": "Armenia",
-      "au": "Australia",
-      "at": "Austria",
-      "bh": "Bahrain",
-      "be": "Belgium",
-      "bo": "Bolivia",
-      "br": "Brazil",
-      "bg": "Bulgaria",
-      "ca": "Canada",
-      "cl": "Chile",
-      "co": "Colombia",
-      "hr": "Croatia",
-      "cy": "Cyprus",
-      "cz": "Czech Republic",
-      "dk": "Denmark",
-      "ee": "Estonia",
-      "fi": "Finland",
-      "fr": "France",
-      "de": "Germany",
-      "gr": "Greece",
-      "hk": "Hong Kong",
-      "hu": "Hungary",
-      "in": "India",
-      "id": "Indonesia",
-      "ie": "Ireland",
-      "il": "Israel",
-      "it": "Italy",
-      "jp": "Japan",
-      "jo": "Jordan",
-      "kz": "Kazakhstan",
-      "kw": "Kuwait",
-      "lv": "Latvia",
-      "lb": "Lebanon",
-      "lt": "Lithuania",
-      "lu": "Luxembourg",
-      "my": "Malaysia",
-      "mt": "Malta",
-      "mx": "Mexico",
-      "nl": "Netherlands",
-      "nz": "New Zealand",
-      "no": "Norway",
-      "om": "Oman",
-      "py": "Paraguay",
-      "pe": "Peru",
-      "pl": "Poland",
-      "pt": "Portugal",
-      "qa": "Qatar",
-      "ro": "Romania",
-      "sa": "Saudi Arabia",
-      "sg": "Singapore",
-      "sk": "Slovakia",
-      "si": "Slovenia",
-      "za": "South Africa",
-      "kr": "South Korea",
-      "es": "Spain",
-      "se": "Sweden",
-      "ch": "Switzerland",
-      "tw": "Taiwan",
-      "th": "Thailand",
-      "tr": "Turkey",
-      "ae": "United Arab Emirates",
-      "gb": "United Kingdom",
-      "us": "United States",
-      "uy": "Uruguay",
-      "ve": "Venezuela",
-      "vn": "Vietnam"
-    },
-    "apps": {
-      "Rideology": {
-        "identifier": "Rideology",
-        "displayName": "RIDEOLOGY THE APP Kawasaki SPIN",
-        "manufacturer": "Kawasaki Motors, Ltd.",
-        "displayNameTranslation": {
-        },
-        "iconName": "Rideology.png",
-        "isNavigation": true,
+  "whitelists": {
+    "android": {
+      "whitelist-focus.json": {
+        "timestamp": 20231124130754,
+        "identifier": "Kawasaki_productive",
         "isProductive": true,
-        "packageName": "jp.co.khi.mce.RideologyTheApp.mySPIN"
-      },
-      "Touring Supporter": {
-        "identifier": "Touring Supporter",
-        "displayName": "Touring Supporter",
-        "manufacturer": "Navitime",
-        "displayNameTranslation": {
-          "jp": "\u30C4\u30FC\u30EA\u30F3\u30B0\u30B5\u30DD\u30FC\u30BF\u30FC"
+        "regions": {
+          "ar": "Argentina",
+          "am": "Armenia",
+          "au": "Australia",
+          "at": "Austria",
+          "bh": "Bahrain",
+          "be": "Belgium",
+          "bo": "Bolivia",
+          "br": "Brazil",
+          "bg": "Bulgaria",
+          "ca": "Canada",
+          "cl": "Chile",
+          "co": "Colombia",
+          "hr": "Croatia",
+          "cy": "Cyprus",
+          "cz": "Czech Republic",
+          "dk": "Denmark",
+          "ee": "Estonia",
+          "fi": "Finland",
+          "fr": "France",
+          "de": "Germany",
+          "gr": "Greece",
+          "hk": "Hong Kong",
+          "hu": "Hungary",
+          "in": "India",
+          "id": "Indonesia",
+          "ie": "Ireland",
+          "il": "Israel",
+          "it": "Italy",
+          "jp": "Japan",
+          "jo": "Jordan",
+          "kz": "Kazakhstan",
+          "kw": "Kuwait",
+          "lv": "Latvia",
+          "lb": "Lebanon",
+          "lt": "Lithuania",
+          "lu": "Luxembourg",
+          "my": "Malaysia",
+          "mt": "Malta",
+          "mx": "Mexico",
+          "nl": "Netherlands",
+          "nz": "New Zealand",
+          "no": "Norway",
+          "om": "Oman",
+          "py": "Paraguay",
+          "pe": "Peru",
+          "pl": "Poland",
+          "pt": "Portugal",
+          "qa": "Qatar",
+          "ro": "Romania",
+          "sa": "Saudi Arabia",
+          "sg": "Singapore",
+          "sk": "Slovakia",
+          "si": "Slovenia",
+          "za": "South Africa",
+          "kr": "South Korea",
+          "es": "Spain",
+          "se": "Sweden",
+          "ch": "Switzerland",
+          "tw": "Taiwan",
+          "th": "Thailand",
+          "tr": "Turkey",
+          "ae": "United Arab Emirates",
+          "gb": "United Kingdom",
+          "us": "United States",
+          "uy": "Uruguay",
+          "ve": "Venezuela",
+          "vn": "Vietnam"
         },
-        "iconName": "TouringSupporter.png",
-        "isNavigation": true,
-        "isProductive": true,
-        "packageName": "com.navitime.local.bike"
-      },
-      "Google Maps": {
-        "identifier": "Google Maps",
-        "displayName": "Google Maps",
-        "manufacturer": "Google LLC",
-        "displayNameTranslation": {
+        "apps": {
+          "Rideology": {
+            "identifier": "Rideology",
+            "displayName": "RIDEOLOGY THE APP Kawasaki SPIN",
+            "manufacturer": "Kawasaki Motors, Ltd.",
+            "displayNameTranslation": {
+            },
+            "iconName": "Rideology.png",
+            "isNavigation": true,
+            "isProductive": true,
+            "packageName": "jp.co.khi.mce.RideologyTheApp.mySPIN"
+          },
+          "Touring Supporter": {
+            "identifier": "Touring Supporter",
+            "displayName": "Touring Supporter",
+            "manufacturer": "Navitime",
+            "displayNameTranslation": {
+              "jp": "\u30C4\u30FC\u30EA\u30F3\u30B0\u30B5\u30DD\u30FC\u30BF\u30FC"
+            },
+            "iconName": "TouringSupporter.png",
+            "isNavigation": true,
+            "isProductive": true,
+            "packageName": "com.navitime.local.bike"
+          },
+          "Google Maps": {
+            "identifier": "Google Maps",
+            "displayName": "Google Maps",
+            "manufacturer": "Google LLC",
+            "displayNameTranslation": {
+            },
+            "iconName": "GoogleMaps.png",
+            "isNavigation": true,
+            "isProductive": true,
+            "packageName": "hr.mireo.arthur"
+          },
+          "REVER": {
+            "identifier": "REVER",
+            "displayName": "REVER",
+            "manufacturer": "Rever Moto, Inc.",
+            "displayNameTranslation": {
+            },
+            "iconName": "REVER.png",
+            "isNavigation": true,
+            "isProductive": true,
+            "packageName": "com.reverllc.rever"
+          },
+          "Cardo Connect": {
+            "identifier": "Cardo Connect",
+            "displayName": "Cardo Connect",
+            "manufacturer": "Cardo Systems Ltd;",
+            "displayNameTranslation": {
+            },
+            "iconName": "CardoConnect.png",
+            "isNavigation": true,
+            "isProductive": true,
+            "packageName": "com.cardo.smartset"
+          },
+          "Dash Radio": {
+            "identifier": "Dash Radio",
+            "displayName": "Dash Radio",
+            "manufacturer": "Dash Radio, Inc.",
+            "displayNameTranslation": {
+            },
+            "iconName": "DashRadio.png",
+            "isNavigation": false,
+            "isProductive": true,
+            "packageName": "com.dashradio.dash"
+          },
+          "FOBO Bike v2": {
+            "identifier": "FOBO Bike v2",
+            "displayName": "FOBO Bike v2",
+            "manufacturer": "Salutica Allies Solutions Sdn Bhd",
+            "displayNameTranslation": {
+            },
+            "iconName": "FoboBikev2.png",
+            "isNavigation": false,
+            "isProductive": true,
+            "packageName": "my.com.salutica.fobobike2"
+          }
         },
-        "iconName": "GoogleMaps.png",
-        "isNavigation": true,
-        "isProductive": true,
-        "packageName": "hr.mireo.arthur"
-      },
-      "REVER": {
-        "identifier": "REVER",
-        "displayName": "REVER",
-        "manufacturer": "Rever Moto, Inc.",
-        "displayNameTranslation": {
-        },
-        "iconName": "REVER.png",
-        "isNavigation": true,
-        "isProductive": true,
-        "packageName": "com.reverllc.rever"
-      },
-      "Cardo Connect": {
-        "identifier": "Cardo Connect",
-        "displayName": "Cardo Connect",
-        "manufacturer": "Cardo Systems Ltd;",
-        "displayNameTranslation": {
-        },
-        "iconName": "CardoConnect.png",
-        "isNavigation": true,
-        "isProductive": true,
-        "packageName": "com.cardo.smartset"
-      },
-      "Dash Radio": {
-        "identifier": "Dash Radio",
-        "displayName": "Dash Radio",
-        "manufacturer": "Dash Radio, Inc.",
-        "displayNameTranslation": {
-        },
-        "iconName": "DashRadio.png",
-        "isNavigation": false,
-        "isProductive": true,
-        "packageName": "com.dashradio.dash"
-      },
-      "FOBO Bike v2": {
-        "identifier": "FOBO Bike v2",
-        "displayName": "FOBO Bike v2",
-        "manufacturer": "Salutica Allies Solutions Sdn Bhd",
-        "displayNameTranslation": {
-        },
-        "iconName": "FoboBikev2.png",
-        "isNavigation": false,
-        "isProductive": true,
-        "packageName": "my.com.salutica.fobobike2"
+        "regionalApps": {
+          "us": [
+            "Rideology",
+            "REVER",
+            "Cardo Connect",
+            "FOBO Bike v2",
+            "Dash Radio",
+            "Google Maps"
+          ]
+        }
       }
-    },
-    "regionalApps": {
-      "us": [
-        "Rideology",
-        "REVER",
-        "Cardo Connect",
-        "FOBO Bike v2",
-        "Dash Radio",
-        "Google Maps"
-      ]
     }
   }
 }
